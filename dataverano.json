@@ -1,0 +1,131 @@
+[
+
+
+{
+    "Imagen" : "https://i.pinimg.com/564x/b0/f5/93/b0f593ef34b2ff16b44004083c9490e2.jpg",
+    "Tipo" : "vestido",
+    "Colores":   ["Rojo",
+                "Negro",
+                "Crema",
+                "Amarillo"],
+    "Tallas" : [ "XS","S","M"],
+    "Precio" : 50,
+    "Temporada" : "Verano"
+},
+
+{
+    "Imagen" : "https://i.pinimg.com/564x/16/e5/24/16e5247f69e6ff057b9ae49393df7657.jpg",
+    "Tipo" : "short",
+    "Colores":   ["Beig",
+                "Crema",
+                "Blanco",
+                "Mostaza"],
+    "Tallas" : [ "XS","S","M"],
+    "Precio" : 90,
+    "Temporada" : "Verano"
+},
+
+{
+    "Imagen" : "https://i.pinimg.com/564x/f3/1a/47/f31a47dca721a6a7e1c0f2f45019240c.jpg",
+    "Tipo" : "vestido",
+    "Colores":   ["Marrón",
+                "Morado",
+                "Rosado",
+                "Verde"],
+    "Tallas" : [ "XS","S","M"],
+    "Precio" : 150,
+    "Temporada" : "Verano"
+},
+
+{
+    "Imagen" : "https://i.pinimg.com/564x/63/f3/a0/63f3a0d57b181e67d4514916640441c3.jpg",
+    "Tipo" : "blusa",
+    "Colores" : [
+            "Mostaza",
+            "Rojo",
+            "Celeste",
+            "blanco"],
+    "Tallas" : ["XS","S","M"],
+    "Precio" : "70",
+    "Temporada" : "verano"
+},
+
+{
+    "Imagen" : "https://i.pinimg.com/564x/d8/b4/9e/d8b49e3c456d6116d518088c337a8755.jpg",
+    "Tipo" : "short",
+    "Colores":   ["Beig",
+                "Negro",
+                "Marrón",
+                "Verde Militar"],
+    "Tallas" : [ "XS","S","M"],
+    "Precio" : 120,
+    "Temporada" : "Verano"
+},
+
+{
+    "Imagen" : "https://i.pinimg.com/564x/23/62/b8/2362b8edbf7d567a01d9723002e042d8.jpg",
+    "Tipo" : "short",
+    "Colores":   ["Crema",
+                "Verde Agua",
+                "Lila",
+                "Blanco"],
+    "Tallas" : [ "XS","S","M"],
+    "Precio" : 110,
+    "Temporada" : "Verano"
+},
+
+{
+    "Imagen" : "https://i.pinimg.com/564x/2a/b7/fb/2ab7fb8abeffd3cb012516cd86b04dc1.jpg",
+    "Tipo" : "blusa",
+    "Colores" : [
+            "blanco", 
+            "lila", 
+            "rosado",
+            "beige"],
+    "Tallas" : ["XS","S","M"],
+    "Precio" : "70",
+    "Temporada" : "verano"
+},
+
+
+
+
+{
+    "Imagen" : "https://i.pinimg.com/564x/d5/7d/87/d57d87ec9c74507194d1efde3f67cb08.jpg",
+    "Tipo" : "short",
+    "Colores":   ["Azulino",
+                "Celeste",
+                "Beig",
+                "Blanco"],
+    "Tallas" : [ "XS","S","M"],
+    "Precio" : 130,
+    "Temporada" : "Verano"
+},
+
+
+
+{
+    "Imagen" : "https://i.pinimg.com/564x/fb/f0/8b/fbf08b148f9c7bbf1ed3aa2c5c4f6cad.jpg",
+    "Tipo" : "vestido",
+    "Colores":   ["Verde",
+                "Celeste",
+                "Rosado",
+                "Amarillo"],
+    "Tallas" : [ "XS","S","M"],
+    "Precio" : 65,
+    "Temporada" : "Verano"
+},
+
+{
+    "Imagen" : "https://i.pinimg.com/564x/34/e9/e1/34e9e1f8bc8cdbc718f0e27d30a171e7.jpg",
+    "Tipo" : "short",
+    "Colores":   ["Rosado",
+                "Lila",
+                "Verde",
+                "Celeste"],
+    "Tallas" : [ "XS","S","M"],
+    "Precio" : 135,
+    "Temporada" : "Verano"
+}
+
+]

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <h1>POKEMONES!</h1>
+    <div >
+        <label for="">Buscar pokemon: </label><input id="campoBuscar" type="text" >
+        <button id="botonBuscar">Buscar</button>
+        <button id="botonLimpiar">Limpiar</button>
+        <button id="botonMostrarTodos">Mostrar todos</button>
+        <button id="botonOrdenarAlfa">Ordenar A-Z</button>
+        <button id="botonVerEstadisticas">Ver estadisticas</button>
+    </div>
+    <div id="pictures-container" class="flex-container">
+        
+        <!--Acá se agregarán las obras utilizando JS-->
+    </div>
+
+  
+
+    <div>
+        <canvas id="graficoBarras"></canvas>
+    </div>
+
+    <div>
+        <canvas id="graficoPastel"></canvas>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
